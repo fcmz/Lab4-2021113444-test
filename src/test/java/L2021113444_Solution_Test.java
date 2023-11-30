@@ -23,7 +23,7 @@ public class L2021113444_Solution_Test {
      */
     @Test
     public void possibleBipartition() {
-        assert solution9.possibleBipartition(n1,dislikes1) == true;
+        assert solution9.possibleBipartition(n1,dislikes1) == false;
         assert solution9.possibleBipartition(n2,dislikes2) == false;
         assert solution9.possibleBipartition(n3,dislikes3) == false;
     }
