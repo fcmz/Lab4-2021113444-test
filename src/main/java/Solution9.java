@@ -11,7 +11,7 @@ import java.util.List;
  *
  *
  *
- * 示例 1：
+ * 示例 1:
  *
  * 输入：n = 4, dislikes = [[1,2],[1,3],[2,4]]
  * 输出：true
