@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 public class L2021113444_Solution_Test {
     /**
-     * 等价类划分原则：不喜欢关系为树，不喜欢关系为环
+     * 等价类划分原则：不喜欢关系为树，不喜欢关系为环1
      */
     Solution9 solution9 = new Solution9();
     //用例1
